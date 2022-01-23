@@ -23,7 +23,7 @@ The election results show that: - We received 369,711 votes in total.
 - The following candidates received 23.0 percent of the vote and 85,213 votes: Charles Casper Stockham received 23.0 percent of the vote and 85,213 votes.
 - Diana DeGette received 73.8 percent of the vote, with 272,892 votes cast, which represents the candidate with th largest amoun of votes
 
-
+![Image](Elction_Analysis_Challenge.png?raw=true)
 
 
 ## Election-Audit Summary
@@ -33,4 +33,4 @@ One modification I will propose for future elections is:
 
 1)Conduct an analysis and write a code script that allows the results to be displayed in a demographics-based manner among the various candidates. Age and gender are two important factors to consider, and it is in the candidates' best interests to understand which group they need to appeal to the most.
 
-2) Include a line in the code that tells us how many votes the second-place finisher needs to have a chance at winning, and display the information by city. Rather than counting votes by county, the election commission may be more interested in votes by state or city. In this case, the word county in the print statements will need to be changed.
+2)Include a line in the code that tells us how many votes the second-place finisher needs to have a chance at winning, and display the information by city. Rather than counting votes by county, the election commission may be more interested in votes by state or city. In this case, the word county in the print statements will need to be changed.
