@@ -23,7 +23,7 @@ The election results show that: - We received 369,711 votes in total.
 - The following candidates received 23.0 percent of the vote and 85,213 votes: Charles Casper Stockham received 23.0 percent of the vote and 85,213 votes.
 - Diana DeGette received 73.8 percent of the vote, with 272,892 votes cast, which represents the candidate with th largest amoun of votes
 
-![Image](Elction_Analysis_Challenge.png?raw=true)
+![Image](Election_Analysis_Challenge.png?raw=true)
 
 
 ## Election-Audit Summary
